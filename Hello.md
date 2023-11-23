@@ -1,1 +1,1 @@
-Hello Git
+Hello Git, jak se mas
